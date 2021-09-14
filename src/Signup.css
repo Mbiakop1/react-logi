@@ -1,0 +1,15 @@
+.signUp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 80vh;
+    width: 100%;
+    justify-content: center;
+}
+
+.sign {
+    display: none;
+}
+
+.log {}
