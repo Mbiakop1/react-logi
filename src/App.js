@@ -49,7 +49,10 @@ function App() {
 				<Header />
 				<Switch>
 					<Route path="/login">
-						<div className="container">
+						<div
+							id="container"
+							className="container"
+						>
 							<Signup className="sign" />
 						</div>
 					</Route>

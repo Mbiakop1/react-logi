@@ -1,12 +1,9 @@
-.container {
+#container {
     align-self: center;
 }
 
 @media (min-width: 992px) {
-    .container,
-    .container-lg,
-    .container-md,
-    .container-sm {
+    #container {
         max-width: 760px !important;
     }
 }
